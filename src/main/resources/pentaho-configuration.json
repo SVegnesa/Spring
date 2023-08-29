@@ -1,0 +1,22 @@
+[
+  {
+    "key": "pentaho_url",
+      "value": "http://localhost:8082/pentaho",
+    "type": "TEXT"
+  },
+ {
+    "key": "pentaho_username",
+    "value": "admin",
+    "type": "TEXT"
+  },
+ {
+    "key": "pentaho_password",
+    "value": "password",
+    "type": "ENCRYPTEDTEXT"
+  },
+  {
+    "key": "log_level",
+    "value": "INFO",
+    "type": "SELECT"
+  }
+]
